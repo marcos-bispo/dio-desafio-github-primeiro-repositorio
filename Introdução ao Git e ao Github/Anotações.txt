@@ -1,2 +1,16 @@
 Link de download do Git: https://git-scm.com/downloads
 O Gitbash é um terminal extendido para otimizar o uso do Git.
+
+Comandos úteis:
+
+git clone = Clona um repositório do Github
+
+git add. = Aplica as atualizações do repositório preparando o Commit
+
+git init = Inicia um repositório na pasta em questão
+
+git status = mostra o status atual do git na pasta
+
+git commit -m "explicação" = commit para a master com uma explicação da alteração feita
+
+git push origin main = envia o commit para o github
